@@ -1,5 +1,5 @@
 # Tecnologia en desarrollo de software
-# cuarto semestre(iv)
-# ingenieria de software
+# Cuarto semestre(iv)
+# Ingenieria de software
 Javier Alexander Anacona Chavarriaga
 Danny Ortiz
