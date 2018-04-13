@@ -1,4 +1,3 @@
-# ING.-DE-SOFTWARE
 # Tecnologia en desarrollo de software
 # cuarto semestre(iv)
 # ingenieria de software
